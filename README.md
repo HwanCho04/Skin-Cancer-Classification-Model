@@ -95,6 +95,7 @@ This will:
 - Output prediction files for submission
 
 ## Project Structure
+```bash
 skin-cancer-classification/
 ├── data/
 │   ├── SkinCancerTrain.csv
@@ -110,6 +111,7 @@ skin-cancer-classification/
 │   └── Skin_Cancer_Classification_Hwan_Cho.pptx
 ├── README.md
 └── LICENSE
+```
 
 ## Development
 
