@@ -101,18 +101,17 @@ skin-cancer-classification/
 │   ├── SkinCancerTrain.csv
 │   └── SkinCancerTestNoY.csv
 ├── scripts/
-│   ├── preprocessing.py
-│   ├── models.py
-│   └── evaluation.py
+│   ├── model.py
+│   ├── rfmodel.ipynb
+│   └── rfmodel_importantvars.ipynb
 ├── outputs/
 │   ├── submission_rf_important_features.csv
 │   └── rf_finalsubmission_importantvars.csv
-├── slides/
-│   └── Skin_Cancer_Classification_Hwan_Cho.pptx
+├── Reports/
+│   └── Skin Cancer Classification Report.docx
 ├── README.md
 └── LICENSE
 ```
-
 ## Development
 
 ### Reproducibility
