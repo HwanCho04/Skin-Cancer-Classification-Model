@@ -1,7 +1,7 @@
 # Skin Cancer Classification
 A machine learning classification project that predicts **skin cancer status (benign vs malignant)** using demographic, behavioral, biological, and environmental risk factors. The project compares multiple models (GLM, Random Forest, XGBoost) and evaluates performance using **Accuracy and ROC AUC**.
 
-> Slides included: **Skin Cancer Classification – Hwan Cho**
+> Slides included: **Skin Cancer Classification Report – Hwan Cho**
 ---
 
 ## Features
